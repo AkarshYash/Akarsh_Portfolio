@@ -1,5 +1,5 @@
 
-# 🚀 Akarsh Yash – Portfolio
+# 🚀 Akarsh Chaturvedi – Portfolio
 
 **Welcome to my digital HQ** — a one‑page showcase highlighting my passions for Cybersecurity, Web‑Dev, and ML, built clean with HTML, CSS, & JS, and deployed via GitHub Pages.
 
